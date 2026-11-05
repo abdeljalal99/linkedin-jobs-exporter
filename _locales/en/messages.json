@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "LinkedIn Jobs Exporter",
+    "description": "Extension name"
+  },
+  "extShortName": {
+    "message": "Export jobs",
+    "description": "Short name"
+  },
+  "extDescription": {
+    "message": "Adds an \"Export jobs\" button to LinkedIn job searches to copy or download listings as text, CSV, TSV, Markdown or JSON.",
+    "description": "Extension description (max 132 characters)"
+  }
+}

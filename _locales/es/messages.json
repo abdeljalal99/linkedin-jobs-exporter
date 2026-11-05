@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "message": "Exportador de ofertas de LinkedIn",
+    "description": "Nombre de la extensión"
+  },
+  "extShortName": {
+    "message": "Exportar",
+    "description": "Nombre corto"
+  },
+  "extDescription": {
+    "message": "Añade un botón en las búsquedas de empleo de LinkedIn para copiar o descargar ofertas en texto, CSV, TSV, Markdown o JSON.",
+    "description": "Descripción de la extensión (máx. 132 caracteres)"
+  }
+}
